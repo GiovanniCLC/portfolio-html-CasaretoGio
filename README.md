@@ -1,2 +1,5 @@
 # portfolio-html-Giovanni Casaretto
-* [Portfólio](https://giovanniclc.github.io/portfolio-html-CasaretoGio/)
+
+![Screenshot](screenshot.png)
+
+Acesse o portfólio: [https://giovanniclc.github.io/portfolio-html-CasaretoGio/](https://giovanniclc.github.io/portfolio-html-CasaretoGio/)
